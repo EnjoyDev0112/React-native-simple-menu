@@ -2843,7 +2843,7 @@ __metadata:
     eslint-plugin-ft-flow: "npm:^3.0.0"
     eslint-plugin-prettier: "npm:^5.1.2"
     jest: "npm:^29.2.1"
-    pod-install: "npm:^0.2.0"
+    pod-install: "npm:^0.3.5"
     prettier: "npm:^3.1.1"
     react: "npm:18.2.0"
     react-native: "npm:^0.73.0"
@@ -10656,12 +10656,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"pod-install@npm:^0.2.0":
-  version: 0.2.2
-  resolution: "pod-install@npm:0.2.2"
+"pod-install@npm:^0.3.5":
+  version: 0.3.5
+  resolution: "pod-install@npm:0.3.5"
   bin:
     pod-install: build/index.js
-  checksum: 10c0/23034563ea13d4604978e2285450e1c169c76d7be1623cf73a37328942434827276b4bc24a701137f8d033a53e529dd1f7b925971e5c942b96136048aee3b2f2
+  checksum: 10c0/78b0eaf25931f10c6959d2d07dc2de34e11f94086ae405f4ef4d35d570a48bff03d23d77b2a6fa5a03e3edaf191575bbc923093051f25ec4953dc26fdc640eeb
   languageName: node
   linkType: hard
 
